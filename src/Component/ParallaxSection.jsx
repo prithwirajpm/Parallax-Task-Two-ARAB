@@ -62,7 +62,7 @@ function ParallaxSection() {
           id="hill5"
         />
         <h2 style={{ marginTop: `${scrollValue * 2.5}px` }} id="text">
-          Parallax Website
+          Prithwiraj Mohan P M
         </h2>
         <img src={Tree} alt="" srcSet="" id="tree" />
         <img
@@ -76,6 +76,12 @@ function ParallaxSection() {
           id="leaf"
         />
         <img src={Plant} alt="" srcSet="" id="plant" />
+      </section>
+      <section>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Optio autem
+        saepe perferendis ipsum, quae quos voluptatum eligendi corporis! Eos
+        nobis eligendi assumenda, minima ullam amet! Expedita quos minima ab.
+        Voluptates!
       </section>
     </div>
   );
